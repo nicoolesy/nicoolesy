@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I’m Nicole Chen
+- 💡 I’m interested in Data Science, AI Applications, and EdTech.
+- 📚 Currently learning Streamlit, ChromaDB, and Gemini AI.
+- 🎮 Game designer building prototypes in **Unity** (C#).
+- ✨ Passionate about building tools that empower people.
+- 📫 Reach me at: [📧](mailto:nicolesy@umich.edu)
 
 <!--
 **nicoolesy/nicoolesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
