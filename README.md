@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Nicole Chen — Data Scientist
 
-I’m passionate about connecting **data science, psychology, and AI** to create meaningful solutions for education and family development.  
-Currently exploring **machine learning**, **Streamlit app development**, and **Gemini AI integration** for real-world applications.
+I’m passionate about connecting **data science, psychology, and AI** to create meaningful solutions for education and family development. Currently exploring **machine learning**, **Streamlit app development**, and **Gemini AI integration** for real-world applications.
 
 ---
-
 ## Featured Portfolio Artifact
 
 ### Gemini AI Parenting Assistant 👉 [**View the Project Repository »**](https://github.com/nicoolesy/MaiProject)
@@ -14,10 +12,8 @@ Currently exploring **machine learning**, **Streamlit app development**, and **G
 - Designed a conversational AI with multi-turn query handling.  
 - Implemented metadata-based filtering by age and parenting topic.  
 - Integrated Bloom’s Taxonomy framework to generate developmental feedback.  
-- Focused on ethical and empathetic AI communication principles.
 
 ---
-
 ## Additional Projects
 - [**An Analysis of Sponsored Content Performance**](https://github.com/nicoolesy/An-Analysis-of-Sponsored-Content-Performance): NLP-based analytics of influencer marketing campaigns.  
 - [**Psychology-Informed Data Storytelling (Coming Soon)**](#): Combining data visualization and emotional engagement strategies.
