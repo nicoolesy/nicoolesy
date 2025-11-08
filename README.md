@@ -7,16 +7,14 @@ Currently exploring **machine learning**, **Streamlit app development**, and **G
 
 ## Featured Portfolio Artifact
 
-### Gemini AI Parenting Assistant
+### Gemini AI Parenting Assistant 👉 [**View the Project Repository »**](https://github.com/nicoolesy/MaiProject)
 **Goal:** Build an interactive AI assistant that supports parents in fostering their child’s emotional intelligence and independent thinking.  
 **Technologies:** Python · ChromaDB · Streamlit · Google Gemini API  
 **Highlights:**
 - Designed a conversational AI with multi-turn query handling.  
 - Implemented metadata-based filtering by age and parenting topic.  
 - Integrated Bloom’s Taxonomy framework to generate developmental feedback.  
-- Focused on ethical and empathetic AI communication principles.  
-
-👉 [**View the Project Repository »**](https://github.com/nicoolesy/MaiProject)
+- Focused on ethical and empathetic AI communication principles.
 
 ---
 
