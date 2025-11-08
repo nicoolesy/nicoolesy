@@ -5,9 +5,9 @@ Currently exploring **machine learning**, **Streamlit app development**, and **G
 
 ---
 
-## 🎯 Featured Portfolio Artifact
+## Featured Portfolio Artifact
 
-### 🧠 Artifact 1: Gemini AI Parenting Assistant
+### Gemini AI Parenting Assistant
 **Goal:** Build an interactive AI assistant that supports parents in fostering their child’s emotional intelligence and independent thinking.  
 **Technologies:** Python · ChromaDB · Streamlit · Google Gemini API  
 **Highlights:**
@@ -20,7 +20,7 @@ Currently exploring **machine learning**, **Streamlit app development**, and **G
 
 ---
 
-## 📁 Additional Projects
+## Additional Projects
 - [**An Analysis of Sponsored Content Performance**](https://github.com/nicoolesy/An-Analysis-of-Sponsored-Content-Performance): NLP-based analytics of influencer marketing campaigns.  
 - [**Psychology-Informed Data Storytelling (Coming Soon)**](#): Combining data visualization and emotional engagement strategies.
 
