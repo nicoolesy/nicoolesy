@@ -1,23 +1,28 @@
-# 👋 Hi, I’m Nicole Chen, the Data Scientist.
-- 💡 I’m interested in Data Science, AI Applications, and EdTech.
-- 📚 Currently learning Streamlit, ChromaDB, and Gemini AI.
-- 🎮 Game designer building prototypes in **Unity** (C#).
-- ✨ Passionate about building tools that empower people.
-- 📫 Reach me at [📧](mailto:nicolesy@umich.edu)
+# 👋 Hi, I'm Nicole Chen — Data Scientist
+
+I’m passionate about connecting **data science, psychology, and AI** to create meaningful solutions for education and family development.  
+Currently exploring **machine learning**, **Streamlit app development**, and **Gemini AI integration** for real-world applications.
+
+---
 
 ## 🎯 Featured Portfolio Artifact
 
 ### 🧠 Artifact 1: Gemini AI Parenting Assistant
-**Description:** A Python-based AI application designed to support parents through adaptive, empathic, and educational conversations powered by Google Gemini.  
-**Key Features:**
-- Multi-turn conversational AI with context awareness  
-- Age-based and topic-based response filtering using ChromaDB  
-- Modular prompt modes based on Bloom’s Taxonomy  
-- Ethical and transparent AI communication principles  
+**Goal:** Build an interactive AI assistant that supports parents in fostering their child’s emotional intelligence and independent thinking.  
+**Technologies:** Python · ChromaDB · Streamlit · Google Gemini API  
+**Highlights:**
+- Designed a conversational AI with multi-turn query handling.  
+- Implemented metadata-based filtering by age and parenting topic.  
+- Integrated Bloom’s Taxonomy framework to generate developmental feedback.  
+- Focused on ethical and empathetic AI communication principles.  
 
-**Technologies:** Python · Streamlit · ChromaDB · Gemini API  
-**Course Alignment:** AIML-500: Machine Learning Fundamentals  
-**View the Repository:** [MaiProject →](https://github.com/nicoolesy/MaiProject)
+👉 [**View the Project Repository »**](https://github.com/nicoolesy/MaiProject)
+
+---
+
+## 📁 Additional Projects
+- [**An Analysis of Sponsored Content Performance**](https://github.com/nicoolesy/An-Analysis-of-Sponsored-Content-Performance): NLP-based analytics of influencer marketing campaigns.  
+- [**Psychology-Informed Data Storytelling (Coming Soon)**](#): Combining data visualization and emotional engagement strategies.
 
 <!--
 **nicoolesy/nicoolesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
