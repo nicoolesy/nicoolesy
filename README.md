@@ -15,8 +15,9 @@ I’m passionate about connecting **data science, psychology, and AI** to create
 
 ---
 ## Additional Projects
-- [**An Analysis of Sponsored Content Performance**](https://github.com/nicoolesy/An-Analysis-of-Sponsored-Content-Performance): NLP-based analytics of influencer marketing campaigns.  
-- [**Psychology-Informed Data Storytelling (Coming Soon)**](#): Combining data visualization and emotional engagement strategies.
+- [**Artifact 2**]([https://github.com/nicoolesy/Multilingual-Sentiment-Analysis]): NLP-based analytics of influencer marketing campaigns.  
+- [**Artifact 3**]([https://github.com/nicoolesy/Machine-Learning-Training-Methods-AI-Guided-Learning-Exploration])
+- [**Artifact 4**]([https://github.com/nicoolesy/Comparative-Study-AI-Chatbots-vs.-Traditional-Learning-in-Education])
 
 <!--
 **nicoolesy/nicoolesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
