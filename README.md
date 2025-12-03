@@ -15,7 +15,7 @@ I’m passionate about connecting **data science, psychology, and AI** to create
 
 ---
 ## Additional Projects
-- [**Artifact 2**]([https://github.com/nicoolesy/Multilingual-Sentiment-Analysis](https://github.com/nicoolesy/Multilingual-Sentiment-Analysis)): NLP-based analytics of influencer marketing campaigns.  
+- [**Artifact 2**](https://github.com/nicoolesy/Multilingual-Sentiment-Analysis): NLP-based analytics of influencer marketing campaigns.  
 - [**Artifact 3**]([https://github.com/nicoolesy/Machine-Learning-Training-Methods-AI-Guided-Learning-Exploration](https://github.com/nicoolesy/Machine-Learning-Training-Methods-AI-Guided-Learning-Exploration))
 - [**Artifact 4**]([https://github.com/nicoolesy/Comparative-Study-AI-Chatbots-vs.-Traditional-Learning-in-Education](https://github.com/nicoolesy/Comparative-Study-AI-Chatbots-vs.-Traditional-Learning-in-Education))
 
