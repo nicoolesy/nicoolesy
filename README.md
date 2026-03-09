@@ -3,24 +3,6 @@
 I’m passionate about connecting **data science, psychology, and AI** to create meaningful solutions for education and family development. Currently exploring **machine learning**, **Streamlit app development**, and **Gemini AI integration** for real-world applications.
 
 ---
-## Featured Portfolio Artifact
-
-### Gemini AI Parenting Assistant 👉 [**View the Project Repository »**](https://github.com/nicoolesy/MaiProject)
-**Goal:** Build an interactive AI assistant that supports parents in fostering their child’s emotional intelligence and independent thinking.  
-**Technologies:** Python · ChromaDB · Streamlit · Google Gemini API  
-**Highlights:**
-- Designed a conversational AI with multi-turn query handling.  
-- Implemented metadata-based filtering by age and parenting topic.  
-- Integrated Bloom’s Taxonomy framework to generate developmental feedback.  
-
----
-## Additional Projects
-- [**Artifact 2**](https://github.com/nicoolesy/Multilingual-Sentiment-Analysis): NLP-based analytics of influencer marketing campaigns.  
-- [**Artifact 3**](https://github.com/nicoolesy/Machine-Learning-Training-Methods-AI-Guided-Learning-Exploration): Interactive Learning Session with AI Chatbot.
-- [**Artifact 4**](https://github.com/nicoolesy/Comparative-Study-AI-Chatbots-vs.-Traditional-Learning-in-Education): Comparative Study AI Chatbots vs. Traditional Learning.
-- [**Artifact 5**](https://github.com/nicoolesy/Financial-s-AI-Transformation-A-Strategic-Analysis): Financial's AI Transformation; A Strategic Analysis.
-
----
 ## Personal Value Proposition
 Unique Value as an AI/ML Student and Future Leader
 I bridge the gap between technical AI/ML capabilities and human-centered impact. My background combines data science rigor with deep insights from psychology and cross-cultural communication, enabling me to build AI solutions that genuinely serve people's needs—not just technical benchmarks. I approach machine learning through an ethical lens, prioritizing bias mitigation, accessibility, and real-world applicability in educational and family development contexts. As a future AI/ML leader, I'm committed to creating technology that amplifies human potential while maintaining critical awareness of AI's societal implications.
